@@ -1,0 +1,25 @@
+title: DIY Pedal Basics
+description: TUtorials and lessons on the fundamentals of DIY pedals and electronics
+author:
+email: diypedalbasics@gmail.com
+baseurl: ""
+url: "https://diypedalbasics.github.io"
+theme: minima
+
+markdown: kramdown+
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+header_pages:
+  - index.md
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
