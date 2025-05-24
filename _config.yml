@@ -4,7 +4,7 @@ author:
 email: diypedalbasics@gmail.com
 baseurl: ""
 url: "https://diypedalbasics.github.io"
-theme: modernist
+theme: minima
 
 markdown: kramdown+
 highlighter: rouge
