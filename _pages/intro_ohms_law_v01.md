@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Circuit Analysis 01: Voltage, Current, Resistance and Ohm's Law
+title: "Introduction to Circuit Analysis 01: Voltage, Current, Resistance and Ohm's Law"
 layout: default
 permalink: intro_01.md
 ---
