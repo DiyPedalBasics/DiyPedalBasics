@@ -1,3 +1,8 @@
+---
+title: "Introduction to Circuit Analysis 01: Voltage, Current, Resistance and Ohm's Law
+layout: default
+permalink: intro_01.md
+---
 # Introduction to Circuit Analysis 01: Voltage, Current, Resistance and Ohm's Law
 
 
@@ -27,9 +32,17 @@ $$I = \frac{V}{R}$$
 
 Unlike current and resistance, **voltage is a relative property**, not an absolute one. When we say "there is a voltage at this point", we mean there is a difference in electric potential between that point and another point we define as "ground". The ground is considered to have a potential of $0V$.
 
+In future lessons, we will say "nodes" instead of "points". 
+
 ## 2: Circuit Symbols
 
-//TODO
+| Symbol | Description |
+|--------|-------------|
+|![Voltage Source](/assets/schematics/symbols/voltage_source_v01.svg)| Represents a voltage source; Across the two nodes this symbol connects there is always a specific voltage drop.|
+|![Battery](/assets/schematics/symbols/battery_v01.svg)| Represents a Battery, a voltage source.|
+|![Current Source](/assets/schematics/symbols/current_source_v01.svg)| Represents a current source; There is always a set current flowing through this line.|
+|![Ground](/assets/schematics/symbols/ground_traditional_v01.svg) ![Alt Ground](/assets/schematics/symbols/ground_alt_v01.svg) | This is the ground symbol, which marks the node it's connected to as ground.|
+|![Resistor](/assets/schematics/symbols/resistor_new_v01.svg) ![Alt Resistor](/assets/schematics/symbols/resistor_old_v01.svg)| This is a resistor. It has a constant Resistance $R$.|
 
 ## 3: Calculation Example
 
