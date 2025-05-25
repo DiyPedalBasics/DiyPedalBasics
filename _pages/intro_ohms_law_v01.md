@@ -8,12 +8,12 @@ permalink: intro_01.md
 
 ## 1: Theory
 
-Imagine a stream connecting two pools of water. The width of the stream limits how much water can flow from one pool to another. The water pressure each pool also affects the flow: Water moves from the point of the higher pressure to the point of the lower pressure. 
+Imagine a stream connecting two pools of water. The width of the stream limits how much water can flow from one pool to another. The water pressure in each pool also affects the flow: Water moves from the point of the higher pressure to the point of the lower pressure. 
 
 Electricity behaves in a similar way. There are three fundamental properties to understand: Voltage, Current and Resistance. 
 
 - **Voltage** is the difference in electric potential between two points, like the difference in water pressure between the two pools. 
-- **Current** is the amount of electric charge flowing, similar to the amount of water flowing through the stream
+- **Current** is the amount of electric charge flowing, similar to the amount of water flowing through the stream.
 - **Resistance** limits the flow of current, like the width of the stream limits water flow.
 
 They are linked through Ohm's Law, which states 
