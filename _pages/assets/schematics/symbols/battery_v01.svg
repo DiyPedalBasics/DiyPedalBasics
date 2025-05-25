@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .line, .text { stroke: black; fill: black; }
+    }
+    @media (prefers-color-scheme: light) {
+      .line, .text { stroke: black; fill: black; }
+    }
+  </style>
+
+  <!-- Terminals -->
+  <line x1="50" y1="0" x2="50" y2="45" class="line" stroke-width="2"/>
+  <line x1="50" y1="55" x2="50" y2="100" class="line" stroke-width="2"/>
+
+  <!-- Battery stripes -->
+  <line x1="35" y1="45" x2="65" y2="45" class="line" stroke-width="2"/> <!-- Long (positive) -->
+  <line x1="43" y1="55" x2="57" y2="55" class="line" stroke-width="2"/> <!-- Short (negative) -->
+
+  <!-- Positive sign -->
+  <text x="53" y="41" font-size="10" class="text">+</text>
+</svg>

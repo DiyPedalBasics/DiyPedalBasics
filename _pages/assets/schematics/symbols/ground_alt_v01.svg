@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <style>
+    @media (prefers-color-scheme: dark) {
+      .line { stroke: black; fill: none; }
+    }
+    @media (prefers-color-scheme: light) {
+      .line { stroke: black; fill: none; }
+    }
+  </style>
+
+  <!-- Top terminal line -->
+  <line x1="50" y1="0" x2="50" y2="40" class="line" stroke-width="2"/>
+
+  <!-- Ground triangle -->
+  <polygon points="40,40 60,40 50,55" class="line" stroke-width="2"/>
+</svg>
