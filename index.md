@@ -4,7 +4,6 @@ Welcome to this page. Here you can find basic tutorials on analog circuit analys
 
 Contents
 - [Introduction to Analog Circuit Analysis](/tutorials/intro_01.md)
-- 
 
 ---
 
