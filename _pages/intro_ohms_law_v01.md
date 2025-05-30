@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Circuit Analysis 01: Voltage, Current, Resistance and Ohm's Law"
 layout: default
-permalink: ./tutorials/intro_01/
+permalink: /tutorials/intro_01/
 ---
 # Introduction to Circuit Analysis 01: Voltage, Current, Resistance and Ohm's Law
 
