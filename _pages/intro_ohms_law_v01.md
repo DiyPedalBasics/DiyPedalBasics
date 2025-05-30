@@ -1,19 +1,19 @@
 ---
 title: "Introduction to Circuit Analysis 01: Voltage, Current, Resistance and Ohm's Law"
 layout: default
-permalink: intro_01.md
+permalink: ./tutorials/intro_01.md
 ---
 # Introduction to Circuit Analysis 01: Voltage, Current, Resistance and Ohm's Law
 
 
 ## 1: Theory
 
-Imagine a stream connecting two pools of water. The width of the stream limits how much water can flow from one pool to another. The water pressure each pool also affects the flow: Water moves from the point of the higher pressure to the point of the lower pressure. 
+Imagine a stream connecting two pools of water. The width of the stream limits how much water can flow from one pool to another. The water pressure in each pool also affects the flow: Water moves from the point of the higher pressure to the point of the lower pressure. 
 
 Electricity behaves in a similar way. There are three fundamental properties to understand: Voltage, Current and Resistance. 
 
 - **Voltage** is the difference in electric potential between two points, like the difference in water pressure between the two pools. 
-- **Current** is the amount of electric charge flowing, similar to the amount of water flowing through the stream
+- **Current** is the amount of electric charge flowing, similar to the amount of water flowing through the stream.
 - **Resistance** limits the flow of current, like the width of the stream limits water flow.
 
 They are linked through Ohm's Law, which states 
@@ -46,8 +46,65 @@ In future lessons, we will say "nodes" instead of "points".
 
 ## 3: Calculation Example
 
-//TODO
+<div class="schematic">
+    <!-- Left: Voltage Source -->
+    <img src="./assets/schematics/symbols/voltage_source_v01.svg" class="symbol">
+
+    <!-- Wire Up -->
+    <img src="./assets/schematics/symbols/wire_v01.svg" class="symbol rotate-up">
+
+    <!-- Wire Right -->
+    <img src="./assets/schematics/symbols/wire_v01.svg" class="symbol rotate-right">
+
+    <!-- Wire Down -->
+    <img src="./assets/schematics/symbols/wire_v01.svg" class="symbol rotate-down">
+
+    <!-- Resistor -->
+    <img src="./assets/schematics/symbols/resistor_new_v01.svg" class="symbol">
+
+    <!-- Wire Back to Source (Right to Left) -->
+    <img src="./assets/schematics/symbols/wire_v01.svg" class="symbol rotate-left">
+</div>
 
 ## 4: Exercises
 
 //TODO
+
+
+
+
+<!-- metadata -->
+<style>
+body {
+  background: #fff;
+  margin: 2rem;
+}
+
+.schematic {
+  display: flex;
+  flex-wrap: wrap;
+  width: 500px; /* adjust as needed */
+  gap: 0;
+}
+
+.symbol {
+  width: 100px;
+  height: 100px;
+}
+
+.rotate-up {
+  transform: rotate(270deg);
+}
+
+.rotate-right {
+  transform: rotate(0deg);
+}
+
+.rotate-down {
+  transform: rotate(90deg);
+}
+
+.rotate-left {
+  transform: rotate(180deg);
+}
+</style>
