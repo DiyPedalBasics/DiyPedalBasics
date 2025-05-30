@@ -16,8 +16,9 @@ plugins:
 header_pages:
   - index.md
 
-include:
-  - _pages
+collections:
+  pages:
+    output: true
 
 defaults:
   -
