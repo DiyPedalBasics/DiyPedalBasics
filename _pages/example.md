@@ -1,6 +1,6 @@
 ---
 title: example page
-layout: nothing
+layout: default
 permalink: /example/
 ---
 # this is an example page
