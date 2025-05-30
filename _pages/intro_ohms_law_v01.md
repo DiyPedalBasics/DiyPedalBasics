@@ -69,6 +69,7 @@ In future lessons, we will say "nodes" instead of "points".
 ## 4: Exercises
 
 //TODO
+<<<<<<< HEAD
 
 
 
@@ -108,3 +109,5 @@ body {
   transform: rotate(180deg);
 }
 </style>
+=======
+>>>>>>> b42df73ce0d607ba9cf4636976845fbff2cea2a6
