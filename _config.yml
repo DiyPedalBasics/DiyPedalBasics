@@ -18,6 +18,7 @@ header_pages:
 
 include:
   - _pages
+  - _layouts
 
 defaults:
   -
