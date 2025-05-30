@@ -47,29 +47,28 @@ In future lessons, we will say "nodes" instead of "points".
 ## 3: Calculation Example
 
 <div class="schematic">
-    <!-- Left: Voltage Source -->
-    <img src="./assets/schematics/symbols/voltage_source_v01.svg" class="symbol">
+<!-- Left: Voltage Source -->
+<img src="./assets/schematics/symbols/voltage_source_v01.svg" class="symbol">
 
-    <!-- Wire Up -->
-    <img src="./assets/schematics/symbols/wire_v01.svg" class="symbol rotate-up">
+<!-- Wire Up -->
+<img src="./assets/schematics/symbols/wire_v01.svg" class="symbol rotate-up">
 
-    <!-- Wire Right -->
-    <img src="./assets/schematics/symbols/wire_v01.svg" class="symbol rotate-right">
+<!-- Wire Right -->
+<img src="./assets/schematics/symbols/wire_v01.svg" class="symbol rotate-right">
 
-    <!-- Wire Down -->
-    <img src="./assets/schematics/symbols/wire_v01.svg" class="symbol rotate-down">
+<!-- Wire Down -->
+<img src="./assets/schematics/symbols/wire_v01.svg" class="symbol rotate-down">
 
-    <!-- Resistor -->
-    <img src="./assets/schematics/symbols/resistor_new_v01.svg" class="symbol">
+<!-- Resistor -->
+<img src="./assets/schematics/symbols/resistor_new_v01.svg" class="symbol">
 
-    <!-- Wire Back to Source (Right to Left) -->
-    <img src="./assets/schematics/symbols/wire_v01.svg" class="symbol rotate-left">
+<!-- Wire Back to Source (Right to Left) -->
+<img src="./assets/schematics/symbols/wire_v01.svg" class="symbol rotate-left">
 </div>
 
 ## 4: Exercises
 
 //TODO
-<<<<<<< HEAD
 
 
 
@@ -109,5 +108,3 @@ body {
   transform: rotate(180deg);
 }
 </style>
-=======
->>>>>>> b42df73ce0d607ba9cf4636976845fbff2cea2a6
